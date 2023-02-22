@@ -21,7 +21,7 @@ spec:
   - key: production
   ingress:
     domain: "382e-1-54-42-143.ap.ngrok.io"
-    externalDNS: false
+    externalDNS: true
     namespaceSubDomain: -jx.
     tls:
       email: ""
